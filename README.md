@@ -82,7 +82,7 @@ Projetos voltados para integração entre sistemas e banco de dados.
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/SEU-LINK)
+[LinkedIn](www.linkedin.com/in/gerson-alves-b0baa1233)
 
 E-mail:
-seuemail@email.com
+gealves1977@gmail.com
