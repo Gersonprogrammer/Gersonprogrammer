@@ -1,16 +1,21 @@
-## Hi there 👋
+# SEU NOME COMPLETO
 
-<!--
-**Gersonprogrammer/Gersonprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 👋
 
-Here are some ideas to get you started:
+I'm Gerson Alves, a Programming student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Efeito de digitação animada -->
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
+
+### About Me
+
+- **Name:** Gerson Alves
+- **From:** Brazil 🇧🇷
+- **Interests:** Information Technology
+- **Currently:** Studying Developer Web and Mobile
+- **Focus:** Building creative & efficient solutions
+
+The projects I am currently working on are private.
+Here, you will find personal projects created to demonstrate my technical skills, creativity, and problem-solving approach.
