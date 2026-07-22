@@ -1,23 +1,85 @@
-# Gerson Alves dos Santos
+<h1 align="center">Olá! 👋 Eu sou o Gerson Alves</h1>
 
-Hey! 👋
+<h3 align="center">
+Estudante de Desenvolvimento Mobile • Futuro Desenvolvedor Full Stack
+</h3>
 
-I'm Gerson Alves, a Programming student.
+<p align="center">
+Sou apaixonado por tecnologia, programação e aprendizado contínuo.
+Atualmente estou construindo projetos para desenvolver minhas habilidades
+e conquistar minha primeira oportunidade como Desenvolvedor.
+</p>
 
-<!-- Efeito de digitação animada -->
-<a href="https://git.io">
-  <img src="https://demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0070f3&width=435&lines=Desenvolvedor+Web+e+Mobile;Estudante+de;Programação"alt="Typing SVG" />
-</a>
-### About Me
+---
 
-- **Name:** Gerson Alves
-- **From:** Brazil 🇧🇷
-- **Interests:** Information Technology
-- **Currently:** Studying Developer Web and Mobile
-- **Focus:** Building creative & efficient solutions
+## 🚀 Sobre mim
 
-The projects I am currently working on are private.
-Here, you will find personal projects created to demonstrate my technical skills, creativity, and problem-solving approach.
+- 🎓 Tecnólogo em Desenvolvimento Mobile
+- 💼 Atualmente trabalho na Volvo do Brasil
+- 🌱 Estudando JavaScript, Python, Flutter, SQL, APIs e Git
+- 💡 Desenvolvendo projetos para meu portfólio
+- 🎯 Objetivo: conquistar minha primeira oportunidade em Desenvolvimento de Software
 
+---
 
+## 💻 Tecnologias
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Gersonprogrammer&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gersonprogrammer&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+📌 Caltrack  
+Sistema de controle financeiro desenvolvido com HTML, CSS e JavaScript.
+
+📌 Estudos de JavaScript  
+Exercícios e desafios resolvidos durante minha formação.
+
+📌 APIs & SQL  
+Projetos voltados para integração entre sistemas e banco de dados.
+
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript
+- SQL
+- APIs REST
+- Flutter
+- Python
+- Git e GitHub
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/SEU-LINK)
+
+E-mail:
+seuemail@email.com
