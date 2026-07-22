@@ -4,10 +4,13 @@
 Estudante de Desenvolvimento Mobile • Futuro Desenvolvedor Full Stack
 </h3>
 
+
 <p align="center">
-Sou apaixonado por tecnologia, programação e aprendizado contínuo.
-Atualmente estou construindo projetos para desenvolver minhas habilidades
-e conquistar minha primeira oportunidade como Desenvolvedor.
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Tecn%C3%B3logo+em+Desenvolvimento+Mobile;Estudando+JavaScript+%7C+Python+%7C+Flutter;Sempre+aprendendo+algo+novo."
+/>
+
 </p>
 
 ---
